@@ -31,3 +31,20 @@ hr {
     background: black;
     border: none;
 }
+
+.part-one {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.info1 {
+    font-size: 25px;
+    font-weight: 700;
+    margin-left: 30px;
+}
+
+.promo video{
+border-radius: 5%; 
+margin-right: 30px;
+}
